@@ -61,5 +61,6 @@ Velocity components and resultant velocity are calculated for each time step.
 
 Developed by Dhanushka Rathnayaka
 
-GitHub: `https://github.com/Dhanuwa856`
-portfolio:`https://dhanushkarathnayakaportfolio.vercel.app/`
+- GitHub: https://github.com/Dhanuwa856
+
+- portfolio: https://dhanushkarathnayakaportfolio.vercel.app/
